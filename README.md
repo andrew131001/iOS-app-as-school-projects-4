@@ -7,8 +7,8 @@
 ### What's missing?
 - Auto-layout (constraints)
 
-<img width="362" alt="Screen Shot 2022-07-29 at 3 19 30 PM" src="https://user-images.githubusercontent.com/37741042/181829861-d2f65276-1f9f-4193-a776-9d7da8d4e81b.png">
-<img width="372" alt="Screen Shot 2022-07-29 at 3 19 58 PM" src="https://user-images.githubusercontent.com/37741042/181829929-1f130a70-6327-4529-b9be-74704fe007ec.png">
+<img width="362" alt="Screen Shot 2022-07-29 at 3 19 30 PM" src="https://user-images.githubusercontent.com/37741042/181829861-d2f65276-1f9f-4193-a776-9d7da8d4e81b.png"> | 
+<img width="372" alt="Screen Shot 2022-07-29 at 3 19 58 PM" src="https://user-images.githubusercontent.com/37741042/181829929-1f130a70-6327-4529-b9be-74704fe007ec.png"> | 
 <img width="368" alt="Screen Shot 2022-07-29 at 3 19 43 PM" src="https://user-images.githubusercontent.com/37741042/181829889-7364a351-b468-4db2-8e59-81ff3c944465.png">
 
 
